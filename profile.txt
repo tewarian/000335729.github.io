@@ -4,24 +4,24 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Prof. Pin Luarn
+name=Anchal Tewari
 
-title1=Top 2% Scientist Worldwide (2020-2026)
+title1=Experienced professional in operations and supply chain
 
-title2=2024 National Teaching Award Laureate
+title2= Currently a working Student 
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+expertise=Operations, HSEF, Supply Chain, Marketing
 
-education=Ph.D. in Industrial Engineering, University of Wisconsin-Madison, USA
+education=MBA - International Management 
 
-email=luarn@mail.ntust.edu.tw
-linkedin=https://pse.is/8nn88y
+email=tewarian@hs-pforzheim.de
+linkedin=www.linkedin.com/in/anchal0101
 
-about1=Prof. Luarn earned his B.S. in Industrial Engineering from Tunghai University,
-about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
-about3=Named among the world's top 2% scientists by Stanford University & Elsevier for seven consecutive years (2020-2026).
-about4=Recipient of the 2024 Presidential National Teaching Award, Taiwan
+about1=Anchal Tewari earned her Bachelors of technology from India
+about2=and is currently pursuing MBA - International Management at HSP, Germany.
+about3=Experienced professional having 6+ years of professional experience across Manufacturing and FMCG sectors.
+about4=Currently employed as a working student
 
-phone=+886-2-2737-6754
+phone=01627616223
 
-location=T2-409, National Taiwan University of Science and Technology, No. 43, Sec. 4, Keelung Rd., Taipei, Taiwan
+location=W-401, Kolpinghaus Pforzheim, 75175, Germany
